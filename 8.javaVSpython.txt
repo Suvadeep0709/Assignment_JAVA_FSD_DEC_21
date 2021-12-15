@@ -1,0 +1,5 @@
+1.java is faster compared to  python  because java is a compiled language and python is interpreted language 
+2.java code length is longer than java  
+4.indentation in java is free flow wheres indentation is very strict in python 
+5.java is more of coding whereas python is more of analytics 
+6.python is simpler compared to java

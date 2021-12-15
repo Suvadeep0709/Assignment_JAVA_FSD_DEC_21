@@ -1,0 +1,22 @@
+Example of Pre-Increment:- 
+int operand = 1;
+int number = ++operand; // operand = 2, number = 2
+
+---------------------------------------------------------------
+Example of Pre-Decrement:-
+int operand = 2;
+--operand; // operand = 1
+int number = --operand; // operand = 0, number = 0
+
+----------------------------------------------------------------
+
+Example of Post-Increment:-
+int operand = 1;
+operand++; // operand = 2
+int number = operand++; // operand = 3, number = 2
+
+----------------------------------------------------------------
+Example of Post-Decrement:-
+int operand = 2;
+operand--; //operand = 1
+int number = operand--; // operand = 0, number 1
