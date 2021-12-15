@@ -1,0 +1,10 @@
+Datatypes  WrapperClass  Memory    Range 
+
+byte        Byte         1byte    -128 to 127
+short       Short        2bytes
+int         Integer      4bytes
+long        Long         8bytes
+float       Float        4bytes
+double      Double       8bytes 
+char        Character    2bytes 
+ 
